@@ -100,7 +100,7 @@ if (totaleConSconto > 50) {
   console.log("Costo spedizione 0€");
 } else {
   totaleAddebitato = totaleConSconto + costoSpedizione;
-  console.log("Spedizione con costo fisso di 10€");
+  console.log("Spese di spedizione10€");
 }
 
 console.log("Totale: " + totalearticoli + "€");
